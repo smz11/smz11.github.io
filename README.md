@@ -1,2 +1,2 @@
-# TM1 Hints & Tricks
+# TM1 tips
 
