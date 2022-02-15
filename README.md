@@ -1,2 +1,2 @@
-# TM1 tips
+# TM1 reference
 
